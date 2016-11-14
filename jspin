@@ -1,0 +1,2 @@
+#! /bin/bash -f
+(javaw -jar jspin.jar &)
