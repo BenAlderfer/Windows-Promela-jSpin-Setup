@@ -6,3 +6,5 @@
 3) Add both the "Spin" folder and "Spin/bin" folder to your environmental variables>PATH (bin is needed, root folder may not be but it works)
 
 4) Reboot
+
+5) Put a shortcut to "spin.exe" on your desktop for convenience.
