@@ -7,4 +7,4 @@
 
 4) Reboot.
 
-5) Put a shortcut to "spin.exe" on your desktop for convenience.
+5) Put a shortcut to "Spin/spin.exe" on your desktop for convenience.
